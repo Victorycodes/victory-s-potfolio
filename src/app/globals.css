@@ -903,7 +903,7 @@ svg {
   position: fixed;
   z-index: 15;
   right: 24px;
-  bottom: 24px;
+  bottom: 65px;
   width: 44px;
   height: 44px;
   border: 1px solid var(--accent);
@@ -928,7 +928,7 @@ svg {
   position: fixed;
   z-index: 19;
   right: 80px;
-  bottom: 24px;
+  bottom: 65px;
   display: grid;
   justify-items: end;
   gap: 10px;
